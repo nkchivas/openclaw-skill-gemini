@@ -1,0 +1,14 @@
+{
+  "name": "gemini",
+  "version": "1.0.0",
+  "description": "Gemini CLI for one-shot Q&A, summaries, and generation.",
+  "author": "OpenClaw Team",
+  "license": "MIT",
+  "created": "2026-02-23T11:46:00.704304",
+  "type": "system-skill",
+  "files": [
+    "SKILL.md"
+  ],
+  "file_count": 1,
+  "source": "OpenClaw Official"
+}
